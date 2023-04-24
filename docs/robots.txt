@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://clarkeh627.github.io/academic-cv-site/sitemap.xml
+Sitemap: https://clarkeh627.github.io/sitemap.xml

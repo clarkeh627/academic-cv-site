@@ -84,6 +84,6 @@ highlight_name: true
 ---
 I am currently pursuing a PhD in experimental particle physics with a specific focus on rare event searches. I have previously worked with three international collaborations searching for dark matter, and now work on [nEXO](https://nexo.llnl.gov), a planned tonne-scale experiment to search for [neutrinoless double beta decay](https://en.wikipedia.org/wiki/Neutrinoless_double_beta_decay). I am enthusiastic about finding new ways to enhance our experimental sensitivity to the physics of interest using machine learning techniques. My day-to-day work consists of data analysis, software development, detector R&D, and lab management.
 
-In addition to my research, I am passionate about teaching math and physics. I am a member of the volunteer faculty at [Mount Tamalpais College](https://www.mttamcollege.edu), an institution offering degree programs to the incarcerated population of San Quentin State Prison. In this role I have been an instructor for precalculus and physics and a substitute for other math courses.
+In addition to my research, I am passionate about teaching math and physics. I am a member of the volunteer faculty at [Mount Tamalpais College](https://www.mttamcollege.edu), an institution offering degree programs to the incarcerated population of San Quentin State Prison. In this role I have been an instructor for precalculus and physics and a substitute instructor and tutor for other math courses.
 
 {{< icon name="download" pack="fas" >}} You can {{< staticref "CV.pdf" "newtab" >}}download my CV here.{{< /staticref >}}

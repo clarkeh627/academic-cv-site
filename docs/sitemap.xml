@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clarkeh627.github.io/categories/</loc>
+    <loc>https://clarkeh627.github.io/academic-cv-site/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://clarkeh627.github.io/</loc>
+    <loc>https://clarkeh627.github.io/academic-cv-site/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://clarkeh627.github.io/publication_types/</loc>
+    <loc>https://clarkeh627.github.io/academic-cv-site/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://clarkeh627.github.io/tags/</loc>
+    <loc>https://clarkeh627.github.io/academic-cv-site/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

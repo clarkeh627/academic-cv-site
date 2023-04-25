@@ -7,3 +7,4 @@ node_modules/
 go.sum
 .hugo_build.lock
 unused/
+**/.DS_Store

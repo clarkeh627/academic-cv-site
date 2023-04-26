@@ -24,7 +24,7 @@ bio: My research interests include rare event searches, machine learning, and de
 interests:
   - Rare event searches
   - Applications of machine learning
-  - Detector and instrumentation R&D
+  - Detector & instrumentation R&D
 
 # Education to show in About widget
 education:

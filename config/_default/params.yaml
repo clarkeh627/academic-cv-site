@@ -21,7 +21,7 @@ marketing:
     description: 'PhD candidate in physics at Stanford University.'
     twitter: ''
   analytics:
-    google_analytics: 'G-MLGHXE67D0'
+    google_tag_manager: 'G-MLGHXE67D0'
     baidu_tongji: ''
   verification:
     google: ''

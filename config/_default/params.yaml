@@ -15,13 +15,13 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: 'Person'
     local_business_type: ''
-    org_name: ''
+    org_name: 'Clarke Hardy'
     description: 'PhD candidate in physics at Stanford University.'
     twitter: ''
   analytics:
-    google_tag_manager: 'G-MLGHXE67D0'
+    google_analytics: 'G-MLGHXE67D0'
     baidu_tongji: ''
   verification:
     google: ''

@@ -20,9 +20,7 @@ marketing:
     org_name: 'Clarke Hardy'
     description: 'PhD candidate in physics at Stanford University.'
     twitter: ''
-  analytics:
-    google_analytics: 'G-MLGHXE67D0'
-    baidu_tongji: ''
+  google_analytics: 'G-MLGHXE67D0'
   verification:
     google: ''
     baidu: ''

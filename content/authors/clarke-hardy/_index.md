@@ -22,8 +22,8 @@ bio: My research interests include rare event searches, machine learning, and de
 
 # Interests to show in About widget
 interests:
-  - Rare event searches
-  - Applications of machine learning
+  - Searches for new physics
+  - ML & data analysis
   - Detector & instrumentation R&D
 
 # Education to show in About widget
@@ -47,6 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/clarkehardy
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/clarkehardy
@@ -65,9 +68,6 @@ social:
   - icon: arxiv
     icon_pack: ai
     link: https://www.arxiv.org/a/hardy_c_1.html
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/clarkehardy
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/cv.pdf`, enable `ai` icons in `params.yaml`,
@@ -82,7 +82,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently pursuing a PhD in experimental particle physics with a specific focus on rare event searches. I have previously worked with three international collaborations searching for dark matter, and now work on [nEXO](https://nexo.llnl.gov), a planned tonne-scale experiment to search for [neutrinoless double beta decay](https://en.wikipedia.org/wiki/Neutrinoless_double_beta_decay). I am enthusiastic about finding new ways to enhance our experimental sensitivity to the physics of interest using machine learning techniques. My day-to-day work consists of data analysis, software development, detector R&D, and lab management.
+I am currently pursuing a PhD in experimental particle physics with a focus on rare event searches. I have previously worked with three international collaborations searching for dark matter, and now work on [nEXO](https://nexo.llnl.gov), a planned tonne-scale experiment to search for [neutrinoless double beta decay](https://en.wikipedia.org/wiki/Neutrinoless_double_beta_decay). I am enthusiastic about finding new ways to enhance our experimental sensitivity to the physics of interest using machine learning techniques. My day-to-day work consists of data analysis, software development, detector R&D, and lab management.
 
 In addition to my research, I am passionate about teaching math and physics. I am a member of the volunteer faculty at [Mount Tamalpais College](https://www.mttamcollege.edu), an institution offering degree programs to the incarcerated population of San Quentin State Prison. In this role I have been an instructor for precalculus and physics and a substitute instructor and tutor for other math courses.
 
